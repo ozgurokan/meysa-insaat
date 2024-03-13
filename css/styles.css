@@ -226,6 +226,7 @@ body::-webkit-scrollbar-thumb{
 
 .img-slider .slide{
     overflow-x:hidden;
+    overflow-y: hidden;
     z-index: 1;
     position: absolute;
     width: 100%;
